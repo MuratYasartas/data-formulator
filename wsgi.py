@@ -1,3 +1,3 @@
-from data_formulator.app import create_app
+from data_formulator.app import app
 
-app = create_app()
+application = app
